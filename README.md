@@ -1,21 +1,6 @@
 # Password-Reset
 
 The "Password Reset" project is a web application built using the MERN (MongoDB, Express.js, React, Node.js) stack that facilitates user authentication functionalities such as signup, login, and a password reset mechanism.
-## Table of Contents
-
-1.Overview
-
-2.Features
-
-3.Installation
-
-4.Usage
-
-5.Technologies Used
-
-6.Contributing
-
-7.License
 ## OverView:
 
 The project focuses on providing a secure and user-friendly system for managing user accounts and passwords. It includes the following key functionalities:
